@@ -14,6 +14,8 @@ It's a 2003 fantasy comedy directed by Tom Shadyac. It follows Bruce Nolan, a te
 	- Morgan Freeman as God
 	- Steve Carell as Evan Baxter
 
+-----
+
 ## Plot Synopsis
 Bruce Nolan, a discontented TV reporter, is frustrated with his life and the challenges he faces. After a particularly bad day, he encounters God, who offers him divine powers to see if he can do a better job. With newfound abilities, Bruce initially revels in his powers, but he soon realizes that being God is more complicated than he thought. As he navigates the challenges of omnipotence, he learns valuable lessons about love, responsibility, and humility.
 > "Before you criticize someone, walk a mile in their shoes." ---Bruce
@@ -27,8 +29,12 @@ Bruce Nolan, a discontented TV reporter, is frustrated with his life and the cha
 ## Fun Fact
 Morgan Freeman, who plays God, also served as an executive producer on the film, bringing his unique perspective to the character.
 
+-----
+
 ## My Rating
 :star::star::star::star::star:(5/5 Stars)
+
+-----
 
 ## Conclusion
 Bruce Almighty is a delightful blend of humor and heartfelt moments that encourages viewers to reflect on their beliefs and the nature of existence. With Jim Carrey's iconic performance and a strong supporting cast, the film remains a beloved classic that resonates with audiences of all ages.
